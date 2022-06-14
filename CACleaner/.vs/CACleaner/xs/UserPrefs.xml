@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BB6E7574-C94E-420B-ABFD-408ADC6241D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="Program.cs" Line="41" Column="22" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="13" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CACleaner" expanded="True">
+            <Node name="CACleaner" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CACleaner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
